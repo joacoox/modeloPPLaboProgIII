@@ -1,0 +1,14 @@
+[
+    {
+        "marca": "fiat",
+        "patente": "abc123",
+        "color": "negro",
+        "precio": 252900
+    },
+    {
+        "marca": "vogsbagen",
+        "patente": "aa05pj",
+        "color": "rojo",
+        "precio": 5000
+    }
+]

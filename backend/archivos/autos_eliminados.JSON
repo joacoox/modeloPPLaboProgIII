@@ -1,0 +1,107 @@
+[
+    {
+        "marca": "fiat",
+        "patente": "abc123",
+        "color": "blanco",
+        "precio": 100555,
+        "pathFoto": ""
+    },
+    {
+        "marca": "Renault",
+        "patente": "AYF714",
+        "color": "gris",
+        "precio": 150000,
+        "pathFoto": ""
+    },
+    {
+        "marca": "Fiat",
+        "patente": "TOC623",
+        "color": "blanco",
+        "precio": 198000,
+        "pathFoto": ""
+    },
+    {
+        "marca": "Ford",
+        "patente": "AB555DC",
+        "color": "verde",
+        "precio": 256900,
+        "pathFoto": ""
+    },
+    {
+        "marca": "Chevrolet",
+        "patente": "AA666AA",
+        "color": "rojo",
+        "precio": 323200,
+        "pathFoto": ""
+    },
+    {
+        "marca": "Citroen",
+        "patente": "AA888CC",
+        "color": "Blanco",
+        "precio": 3000666,
+        "pathFoto": ""
+    },
+    {
+        "marca": "Citroen",
+        "patente": "AA888CC",
+        "color": "Blanco",
+        "precio": 3000666,
+        "pathFoto": ""
+    },
+    {
+        "marca": "ferrari",
+        "patente": "AA888CC",
+        "color": "rojo",
+        "precio": 0,
+        "pathFoto": ""
+    },
+    {
+        "marca": "fiat",
+        "patente": "abc123",
+        "color": "blanco",
+        "precio": 0,
+        "pathFoto": ""
+    },
+    {
+        "marca": "asd",
+        "patente": "asd",
+        "color": "das",
+        "precio": 123,
+        "pathFoto": ""
+    },
+    {
+        "marca": "ferrari",
+        "patente": "abc123",
+        "color": "azul",
+        "precio": 5000,
+        "pathFoto": ""
+    },
+    {
+        "marca": "fiat",
+        "patente": "AA888CC",
+        "color": "negro",
+        "precio": 5000,
+        "pathFoto": ""
+    },
+    {
+        "marca": "asd",
+        "patente": "111000",
+        "color": "asd",
+        "precio": 123,
+        "pathFoto": ""
+    },
+    {
+        "marca": "ferrari",
+        "patente": "AA057PJ",
+        "color": "rojo",
+        "precio": 50000,
+        "pathFoto": ""
+    },
+    {
+        "marca": "ford_modif",
+        "patente": "AA888CC",
+        "color": "rojo_modif",
+        "precio": 1,
+        "pathFoto": ""
+    }
+]
